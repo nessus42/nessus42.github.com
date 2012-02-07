@@ -1,3 +1,9 @@
+# Nothing to see here yet!
+
+I'm going to make a blog here using Jekyll-Bootstrap, but it isn't up and running yet. The following is the readme
+that came with Jekyll-Bootstrap.
+
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
